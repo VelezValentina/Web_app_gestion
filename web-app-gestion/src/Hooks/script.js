@@ -1,0 +1,1 @@
+window.location.href ="http://Home/C3.js"
